@@ -1,4 +1,3 @@
-````markdown
 # 🌌 Building Caelestia Shell on Ubuntu 25.10
 
 Caelestia Shell is a modern Wayland desktop shell and UI framework designed for Hyprland-based setups.  
@@ -159,7 +158,3 @@ After completing these steps, your system has:
 Now you can launch it inside your Hyprland session or integrate its widgets into your Caelestia configuration.
 
 ---
-
-**Enjoy your Caelestia desktop!** 🌠
-
-```
